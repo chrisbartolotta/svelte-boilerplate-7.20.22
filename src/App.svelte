@@ -5,7 +5,7 @@
 <main>
 	<h1>Hello {name}!</h1>
 	<p>Welcome to chrisbartolotta.com</p>
-	<p>More content coming soon!</p>
+	<p>More content coming soon!!</p>
 </main>
 
 <style>
